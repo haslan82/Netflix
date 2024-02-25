@@ -1,4 +1,5 @@
-# NETFLİX projesi
+# Netflix projesi
+
 Html ve css ile bu proje geliştirildi
 
 # Kullanılan Diller
@@ -12,8 +13,8 @@ Html ve css ile bu proje geliştirildi
 
 # Video
 
-![](images/netflix%202%20mp4.mp4)
+![](images/Netflix%2022.mp4)
 
 # GIF
 
-![](images/netflix%203%20gif.gif)
+![](images/Netflix%2033.gif)
